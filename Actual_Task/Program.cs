@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string[] mainArray = { "45", "thanks", "for", "777", "knowledge" };
+int count = 0;
